@@ -103,6 +103,6 @@ O Diego do canal da Rocketseat explica melhor essa parte! [**Link do vídeo**](h
 
 * Meus apps;
 
-* No canto superior esquerdo da tela, localize um ícone com sinal de :heavy_plus_sign:;
+* No canto superior esquerdo da tela, localize um ícone com sinal de +;
 
 * Pronto, agora é só cadastrar o app!
