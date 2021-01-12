@@ -93,8 +93,7 @@ No, please create a new one
 agora precisamos testar o *app*. Para isso, é necessário utilizar o [**TestFlight**](https://developer.apple.com/testflight/). O [**TestFlight**](https://developer.apple.com/testflight/) serve para você testar os *apps* para iOS.
 
 > devido as constantes atualizações no site da Apple, poderá acontecer em que, as próximas etapas não sejam iguais as atuais páginas.
-
-> o Diego do canal da Rocketseat explica melhor essa parte! [**Link do vídeo**](https://youtu.be/wYMvzbfBdYI?t=1213).
+o Diego do canal da Rocketseat explica melhor essa parte! [**Link do vídeo**](https://youtu.be/wYMvzbfBdYI?t=1213).
 
 * acesse o [**Apple Developer Program**](https://developer.apple.com/account);
 
