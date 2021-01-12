@@ -50,7 +50,7 @@ Logo, digite a sua Apple ID e sua senha [**(conta de desenvolvedor)**](https://d
 
 Ao fazer login, o Expo fará a seguinte pergunta:
 
-***How would you like to upload your credentials?***
+### ***How would you like to upload your credentials?***
 
 Bom, na hora de publicar *apps* iOS, o processo é super chato e demorado, pois é preciso criar várias condições, licenças, perfis de provicionamento, criar o *app* dentro do iTunes Connect para testar, certificados, enfim, muita coisa :sweat_smile:
 
@@ -63,28 +63,28 @@ Expo handles all credentials, you can still provide overrides
 ```
 
 
-## ***Will you provide your own Apple Distribution Certificate?***
+### ***Will you provide your own Apple Distribution Certificate?***
 
 ```
 Let Expo handle the process
 ```
 
 
-## ***Would you like to reuse Apple Distribution Certificate from another app?***
+### ***Would you like to reuse Apple Distribution Certificate from another app?***
 
 ```
 No, please create a new one
 ```
 
 
-## ***Will you provide your own Apple Push Notifications service key?***
+### ***Will you provide your own Apple Push Notifications service key?***
 
 ```
 Let Expo handle the process
 ```
 
 
-## ***Would you like to reuse Apple Push Notifications service key from another app?***
+### ***Would you like to reuse Apple Push Notifications service key from another app?***
 
 ```
 No, please create a new one
