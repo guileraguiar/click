@@ -63,28 +63,28 @@ Expo handles all credentials, you can still provide overrides
 ```
 
 
-***Will you provide your own Apple Distribution Certificate?***
+## ***Will you provide your own Apple Distribution Certificate?***
 
 ```
 Let Expo handle the process
 ```
 
 
-***Would you like to reuse Apple Distribution Certificate from another app?***
+## ***Would you like to reuse Apple Distribution Certificate from another app?***
 
 ```
 No, please create a new one
 ```
 
 
-***Will you provide your own Apple Push Notifications service key?***
+## ***Will you provide your own Apple Push Notifications service key?***
 
 ```
 Let Expo handle the process
 ```
 
 
-***Would you like to reuse Apple Push Notifications service key from another app?***
+## ***Would you like to reuse Apple Push Notifications service key from another app?***
 
 ```
 No, please create a new one
