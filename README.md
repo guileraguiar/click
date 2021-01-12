@@ -46,7 +46,7 @@ adb install app-filename.apk
 ```
 build ios
 ```
-Logo, digite a sua Apple ID e sua senha [(conta de desenvolvedor)](https://developer.apple.com/). A conta de dev serve para gerar o arquivo .ipa (tipo o .apk só que para iOS).
+Logo, digite a sua Apple ID e sua senha [**(conta de desenvolvedor)**](https://developer.apple.com/). A conta de dev serve para gerar o arquivo .ipa (tipo o .apk só que para iOS).
 
 Ao fazer login, o Expo fará a seguinte pergunta:
 
@@ -92,14 +92,18 @@ No, please create a new one
 
 Agora, precisamos testar o *app*. Para isso, é necessário utilizar o [**TestFlight**](https://developer.apple.com/testflight/). O [**TestFlight**](https://developer.apple.com/testflight/) serve para você testar os *apps* para iOS.
 
-Devido as constantes atualizações no site da Apple, poderá acontecer em que, as próximas etapas não sejam iguais as atuais páginas.
+devido as constantes atualizações no site da Apple, poderá acontecer em que, as próximas etapas não sejam iguais as atuais páginas.
 
-* Acesse o [Apple Developer Program](https://developer.apple.com/account)
+o Diego do canal da Rocketseat explica melhor essa parte! [**Link do vídeo**](https://youtu.be/wYMvzbfBdYI?t=1213).
 
-* Faça o login da sua Apple ID
+* Acesse o [**Apple Developer Program**](https://developer.apple.com/account);
 
-* Clique em App Store Connect
+* Faça o login da sua Apple ID;
 
-* https://youtu.be/wYMvzbfBdYI?t=958  (minuto 16:00)
+* Clique em App Store Connect;
 
-* https://developer.apple.com/
+* Meus apps;
+
+* No canto superior esquerdo da tela, localize um ícone com sinal de :heavy_plus_sign:;
+
+* Pronto, agora é só cadastrar o app!
