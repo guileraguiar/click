@@ -1,4 +1,4 @@
-<h1 align="center", font-size="10px"> Pequeno Guia do Expo 🚀</h1>
+<h1 align="center"> Pequeno Guia do Expo 🚀 </h1>
 
 Expo é uma ferramenta utilizada para o React Native.
 
