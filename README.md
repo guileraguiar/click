@@ -7,7 +7,7 @@ Expo é uma ferramenta utilizada para o React Native.
 
 * Expo na Apple Store - https://apps.apple.com/br/app/expo-client/id982107779
 
-* Expo na Google Plat - https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US
+* Expo na Google Play - https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US
 
 # Etapas para testar o app
 para testar sem precisar buildar um apk, apenas baixe o app Expo que está presente pra Android e iOS. com o app baixado, note que, ao realizar o npm start (debugando o app), irá abrir uma página no seu navegador e junto um QR Code. 
