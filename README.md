@@ -1,4 +1,5 @@
-# Pequeno Guia do Expo 🚀
+<h1 align="center", font-size:10px> Pequeno Guia do Expo 🚀</h4>
+
 Expo é uma ferramenta utilizada para o React Native.
 
 * Expo Documentação - https://docs.expo.io/
@@ -42,7 +43,54 @@ adb install app-filename.apk
 ```
 
 ## 4. Rodando a build no Apple TestFlight (iOS)
-por se tratar de iOS, tem muita coisa a ser feita. o vídeo apresentado pelo Diego da Rocketseat, mostra certinho os passos para buildar o app para iOS.
+```
+build ios
+```
+Logo, digite a sua Apple ID e sua senha[(conta de desenvolvedor)](https://developer.apple.com/). A conta de dev serve para gerar o arquivo .ipa (tipo o .apk só que para iOS).
+
+Ao fazer login, o Expo fará a seguinte pergunta:
+
+***How would you like to upload your credentials?***
+
+Bom, na hora de publicar *apps* iOS, o processo é super chato e demorado, pois é preciso criar várias condições, licenças, perfis de provicionamento, criar o *app* dentro do iTunes Connect para testar, certificados, enfim, muita coisa :sweat_smile:
+
+Porém, o Expo consegue fazer TUDO sozinho, ou seja, menos dor de cabeça.
+
+Portanto, selecione a opção:
+
+`
+Expo handles all credentials, you can still provide overrides
+`
+
+
+***Will you provide your own Apple Distribution Certificate?***
+
+`
+Let Expo handle the process
+`
+
+
+***Would you like to reuse Apple Distribution Certificate from another app?***
+
+`
+No, please create a new one
+`
+
+
+***Will you provide your own Apple Push Notifications service key?***
+
+`
+Let Expo handle the process
+`
+
+
+***Would you like to reuse Apple Push Notifications service key from another app?***
+
+`
+No, please create a new one
+`
+
+
 
 * https://youtu.be/wYMvzbfBdYI?t=958  (minuto 16:00)
 
