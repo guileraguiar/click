@@ -1,4 +1,4 @@
-# Pequeno Guia do Expo
+# Pequeno Guia do Expo 🚀
 Expo é uma ferramenta utilizada para o React Native.
 
 * Expo Documentação - https://docs.expo.io/
@@ -26,6 +26,10 @@ npm install --global expo-cli
 ```
 npm start
 ```
+
+# ANTES DE BUIDAR O .apk/.ipa!
+
+para poder buildar .apk ou .ipa, é necessário obter uma conta no [Expo](https://expo.io/).
 
 ## 3. Buildando o .apk (Android)
 ```
