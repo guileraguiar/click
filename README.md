@@ -11,7 +11,7 @@ Expo é uma ferramenta utilizada para o React Native.
 * Expo na Google Play - https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US
 
 # Etapas para testar o app
-para testar sem precisar buildar um apk, apenas baixe o app Expo que está presente pra Android e iOS. com o app baixado, note que, ao realizar o npm start (debugando o app), irá abrir uma página no seu navegador e junto um QR Code. 
+para testar sem precisar buildar um apk, apenas baixe o app Expo que está presente pra Android e iOS. com o app baixado, note que, ao realizar o ``npm start`` (debugando o app), irá abrir uma página no seu navegador e junto um QR Code. 
 
 * no iphone, abra a câmera e foque no QR Code para ver o resultado.
 
@@ -46,7 +46,7 @@ adb install app-filename.apk
 ```
 build ios
 ```
-Logo, digite a sua Apple ID e sua senha[(conta de desenvolvedor)](https://developer.apple.com/). A conta de dev serve para gerar o arquivo .ipa (tipo o .apk só que para iOS).
+Logo, digite a sua Apple ID e sua senha [(conta de desenvolvedor)](https://developer.apple.com/). A conta de dev serve para gerar o arquivo .ipa (tipo o .apk só que para iOS).
 
 Ao fazer login, o Expo fará a seguinte pergunta:
 
@@ -90,10 +90,16 @@ Let Expo handle the process
 No, please create a new one
 ```
 
+Agora, precisamos testar o *app*. Para isso, é necessário utilizar o [**TestFlight**](https://developer.apple.com/testflight/). O [**TestFlight**](https://developer.apple.com/testflight/) serve para você testar os *apps* para iOS.
 
+Devido as constantes atualizações no site da Apple, poderá acontecer em que, as próximas etapas não sejam iguais as atuais páginas.
+
+* Acesse o [Apple Developer Program](https://developer.apple.com/account)
+
+* Faça o login da sua Apple ID
+
+* Clique em App Store Connect
 
 * https://youtu.be/wYMvzbfBdYI?t=958  (minuto 16:00)
 
 * https://developer.apple.com/
-
-* https://developer.apple.com/testflight/
