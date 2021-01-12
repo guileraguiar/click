@@ -32,7 +32,7 @@ npm start
 expo build:android -t apk
 ```
 
-## 3.1 Rodando o .apk direto no celular (necessário estar plugado no USB)
+## 3.1. Rodando o .apk direto no celular (necessário estar plugado no USB)
 ```
 adb install app-filename.apk
 ```
