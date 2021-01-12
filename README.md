@@ -46,17 +46,17 @@ adb install app-filename.apk
 ```
 build ios
 ```
-Logo, digite a sua Apple ID e sua senha [**(conta de desenvolvedor)**](https://developer.apple.com/). A conta de dev serve para gerar o arquivo .ipa (tipo o .apk só que para iOS).
+logo, digite a sua Apple ID e sua senha [**(conta de desenvolvedor)**](https://developer.apple.com/). A conta de dev serve para gerar o arquivo .ipa (tipo o .apk só que para iOS).
 
-Ao fazer login, o Expo fará a seguinte pergunta:
+ao fazer login, o Expo fará a seguinte pergunta:
 
 ***How would you like to upload your credentials?***
 
-Bom, na hora de publicar *apps* iOS, o processo é super chato e demorado, pois é preciso criar várias condições, licenças, perfis de provicionamento, criar o *app* dentro do iTunes Connect para testar, certificados, enfim, muita coisa :sweat_smile:
+bom, na hora de publicar *apps* iOS, o processo é super chato e demorado, pois é preciso criar várias condições, licenças, perfis de provicionamento, criar o *app* dentro do iTunes Connect para testar, certificados, enfim, muita coisa :sweat_smile:
 
-Porém, o Expo consegue fazer TUDO sozinho, ou seja, menos dor de cabeça.
+porém, o Expo consegue fazer TUDO sozinho, ou seja, menos dor de cabeça.
 
-Portanto, selecione a opção:
+portanto, selecione a opção:
 
 ```
 Expo handles all credentials, you can still provide overrides
@@ -90,20 +90,20 @@ Let Expo handle the process
 No, please create a new one
 ```
 
-Agora, precisamos testar o *app*. Para isso, é necessário utilizar o [**TestFlight**](https://developer.apple.com/testflight/). O [**TestFlight**](https://developer.apple.com/testflight/) serve para você testar os *apps* para iOS.
+agora precisamos testar o *app*. Para isso, é necessário utilizar o [**TestFlight**](https://developer.apple.com/testflight/). O [**TestFlight**](https://developer.apple.com/testflight/) serve para você testar os *apps* para iOS.
 
 devido as constantes atualizações no site da Apple, poderá acontecer em que, as próximas etapas não sejam iguais as atuais páginas.
 
 o Diego do canal da Rocketseat explica melhor essa parte! [**Link do vídeo**](https://youtu.be/wYMvzbfBdYI?t=1213).
 
-* Acesse o [**Apple Developer Program**](https://developer.apple.com/account);
+* acesse o [**Apple Developer Program**](https://developer.apple.com/account);
 
-* Faça o login da sua Apple ID;
+* faça o login da sua Apple ID;
 
-* Clique em App Store Connect;
+* clique em App Store Connect;
 
-* Meus apps;
+* meus apps;
 
-* No canto superior esquerdo da tela, localize um ícone com sinal de :heavy_plus_sign:;
+* no canto superior esquerdo da tela, localize um ícone com sinal de :heavy_plus_sign:;
 
-* Pronto, agora é só cadastrar o app!
+* pronto, agora é só cadastrar o app!
